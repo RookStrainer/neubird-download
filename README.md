@@ -73,3 +73,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for NeuBird.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit NeuBird on SOFTGIT](https://softgit.pro/p/neubird)** — the full listing.
+- 📄 **[NeuBird web page](https://rookstrainer.github.io/neubird-download/)** — standalone info page.
+- 🗂️ [More Security software](https://softgit.pro/category/security)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for NeuBird. Third-party software; all rights belong to the original authors.
